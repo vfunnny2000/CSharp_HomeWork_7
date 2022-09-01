@@ -42,7 +42,6 @@ for (int i=0; i<m; i++)
     Console.Write("Average is " + (sum[i] / n)+ "\t" );
 }
 
-// Console.Read();
 
  
     
