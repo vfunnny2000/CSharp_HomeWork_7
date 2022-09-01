@@ -39,7 +39,7 @@ for (int i=0; i<m; i++)
 {
     Console.WriteLine( );
     
-    Console.Write("Average is " + (sum[i] / n) + "\t");
+    Console.Write("Average is " + (sum[i] / n)+ "\t" );
 }
 
 // Console.Read();
